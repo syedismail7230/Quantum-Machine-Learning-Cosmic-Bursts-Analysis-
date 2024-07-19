@@ -1,4 +1,4 @@
-# Quantum-Machine-Learning-Cosmic-Bursts-Analysis-
+# Quantum-Machine-Learning-Cosmic-Bursts-Analysis
 
 # Analysis of Cosmic Bursts Using Basic Quantum Machine Learning
 
