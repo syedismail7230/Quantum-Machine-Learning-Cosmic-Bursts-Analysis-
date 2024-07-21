@@ -171,7 +171,7 @@ Deploy the model using Streamlit for visualization:
 - **Real-Time Analysis**: Enhance the system to perform real-time analysis of cosmic bursts, enabling immediate insights from live astronomical data.
 - **Cross-Platform Deployment**: Develop cross-platform applications to extend the system's usability across different operating systems and devices.
 
-## Contributors
+## Contributor
 
 - **Syed Ismail Zabiulla** - (https://github.com/syedismail7230)
 
